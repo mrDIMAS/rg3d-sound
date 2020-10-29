@@ -1,3 +1,5 @@
+Contents of this repository was moved to [rg3d/rg3d-sound](https://github.com/mrDIMAS/rg3d/tree/master/rg3d-sound) and development will be continued there.
+
 # rg3d-sound
 
 Sound library for games and interactive applications written in Rust.
